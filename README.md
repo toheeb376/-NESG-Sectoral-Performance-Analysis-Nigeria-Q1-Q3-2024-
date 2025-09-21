@@ -57,4 +57,11 @@ Data covers **20 key sectors**, highlighting growth drivers and underperformers.
 ## 📂 Dataset Summary
 - **Sectors**: 20  
 - **Period**: Q1–Q3 2024  
-- **Indicators**: Growth Rate, Contribution to GDP Growth, Share of GDP  
+- **Indicators**: Growth Rate, Contribution to GDP Growth, Share of GDP
+
+---
+
+## References  
+
+Nigerian Economic Summit Group. (2025). *Macroeconomic outlook 2025*. Nigerian Economic Summit Group.  
+
